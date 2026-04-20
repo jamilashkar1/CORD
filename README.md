@@ -1,4 +1,4 @@
-# CORD — Conversational Orchestration Record Descriptor
+# CORD — Canonical Object for Relational Data
 
 **An open protocol standard for AI-generated interaction data.**
 
